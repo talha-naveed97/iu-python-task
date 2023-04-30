@@ -56,5 +56,9 @@ def get_exception_info():
     except:
         pass
 
+
+def test_git_merge_func():
+    pass
+
 if __name__ == '__main__':
     main()
